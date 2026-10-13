@@ -2,10 +2,14 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "artisan-build/telltale-contracts",
     "description": "Versioned wire contracts shared by the Telltale client and server.",
-    "keywords": ["telltale", "nativephp", "analytics", "contracts"],
+    "keywords": [
+        "telltale",
+        "nativephp",
+        "analytics",
+        "contracts"
+    ],
     "license": "MIT",
     "type": "library",
-    "version": "1.0.0",
     "require": {
         "php": "^8.4"
     },
